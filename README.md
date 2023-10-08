@@ -8,7 +8,7 @@ Run the following command:
 
 `lua installPackage([[https://raw.githubusercontent.com/VelzardWhitewind/UOSS/main/UOSS%20-%20CMP.mpackage]])`
 
-Once installed. Type 'update map' to download the map.
+Once installed, use `'update map'` to download the map.
 
 ### Additional Commands
 

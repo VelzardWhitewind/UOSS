@@ -14,6 +14,10 @@ Instructions:
 
 [4] Select the previously downloaded 'UOSS - CMP.trigger' file and import
 
-[5] type 'update map' to download and import the map
+[5] type the command 'update map' in the command bar to download and import the map
 
 [6] Use the Map button in the top menu bar to open the map window
+
+Additional Commands:
+
+'findme' will attempt to locate you on the map if you ever end up not where you should be.

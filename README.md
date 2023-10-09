@@ -1,4 +1,4 @@
-# Unofficial Squaresoft MUD Community Map Pack V1.0
+# Unofficial Squaresoft MUD Community Map Pack V1.1
 
 This pack is designed to work with Mudlet only.
 

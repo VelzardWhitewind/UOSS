@@ -2,6 +2,8 @@
 
 This pack is designed to work with Mudlet only.
 
+Contact `Velzard` in game, or create an issue for any areas found missing, or exits that are broken.
+
 ## Instructions
 
 Run the following command:

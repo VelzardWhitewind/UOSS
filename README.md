@@ -36,3 +36,6 @@ Once installed, use `update map` to download the map.
 
 * `gt <name>`
   * Has some predefined locations such as 'auction' and 'coli' that will run you to the respective rooms - more can be added in the Alias if wanted
+
+* `uoss p/path <roomnumber>`
+  * Copy and display the path from your current room to the requested room to your clipboard
